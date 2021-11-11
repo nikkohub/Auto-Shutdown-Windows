@@ -1,4 +1,6 @@
-﻿# Tagen ifrån https://www.ctrl.blog/entry/idle-task-scheduler-powershell.html
+﻿
+ # I TAKE NO CREDIT FOR CREATING THIS SCRIPT. THIS IS PURELY FOR ACHIVING 
+ # taken from https://www.ctrl.blog/entry/idle-task-scheduler-powershell.html
 
 New-Item -Path 'C:\Program Files\auto' -ItemType Directory
 
