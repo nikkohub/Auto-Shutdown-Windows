@@ -6,7 +6,7 @@ New-Item -Path 'C:\Program Files\auto' -ItemType Directory
 New-Item -Path 'C:\Program Files\auto\ok.txt'
 
 
-$TaskName = "Nordlo Auto Shutdown"
+$TaskName = " Auto Shutdown"
 
 $service = New-Object -ComObject("Schedule.Service")
 $service.Connect()
